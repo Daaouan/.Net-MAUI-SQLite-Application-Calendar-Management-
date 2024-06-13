@@ -8,7 +8,7 @@ In this small project, you will see, SQLite CRUD operation with .Net MAUI using 
 
 Image 1                       | Image 2
 :-----------------------------: | :--------------------------:
-![MAUISqlite-1](https://raw.githubusercontent.com/Abhayprince/MAUISqlite/master/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202023-04-16%20at%2017.37.28.png) | ![MAUISqlite-2](https://raw.githubusercontent.com/Abhayprince/MAUISqlite/master/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202023-04-16%20at%2017.40.19.png)
+![MAUISqlite-1](.png) | ![MAUISqlite-2](.png)
 
 ## To Run Locally
 - Clone the Repo
