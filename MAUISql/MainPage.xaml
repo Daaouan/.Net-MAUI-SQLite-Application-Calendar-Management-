@@ -46,7 +46,7 @@
                               ColumnDefinitions="*, Auto"
                               RowSpacing="5"
                               Padding="5"
-                              BackgroundColor="#ECECEC">
+                              BackgroundColor="#23D8D0">
                             <Label Grid.Row="0"
                                    Grid.Column="0"
                                    Text="{Binding Name}"
@@ -116,7 +116,7 @@
                         <Entry Text="{Binding OperatingEvent.Date, StringFormat='yyyy-MM-dd'}"
                                Placeholder="Event date"
                                Margin="0"
-                               BackgroundColor="#DAD1F9"
+                               BackgroundColor="#A792EC"
                                Keyboard="Text"/>
                     </VerticalStackLayout>
 
