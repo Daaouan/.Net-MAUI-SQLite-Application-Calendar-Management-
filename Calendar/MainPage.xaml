@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:cal="clr-namespace:Plugin.Maui.Calendar.Controls;assembly=Plugin.Maui.Calendar"
+             xmlns:toolkit="http://schemas.microsoft.com/dotnet/2022/maui/toolkit"
+             x:Class="Calendar.MainPage"
+             Title="Calendar">
+
+    <AbsoluteLayout>
+        <StackLayout AbsoluteLayout.LayoutBounds="0,0,1,1" AbsoluteLayout.LayoutFlags="All">
+            <cal:Calendar Events="{Binding Events}" EventsScrollViewVisible="True" SelectedDayBackgroundColor="Red" EventIndicatorType="BackgroundFull">
+                <cal:Calendar.EventTemplate>
+                    <DataTemplate>
+                        <VerticalStackLayout>
+                            <Label Text="{Binding Name}" FontSize="25" FontAttributes="Bold"/>
+                            <Label Text="{Binding Description}"/>
+                        </VerticalStackLayout>
+                    </DataTemplate>
+                </cal:Calendar.EventTemplate>
+            </cal:Calendar>
+        </StackLayout>
+
+        <Button Text="+" 
+                AbsoluteLayout.LayoutBounds="1,1,60,60" 
+                AbsoluteLayout.LayoutFlags="PositionProportional" 
+                CornerRadius="30" 
+                Clicked="OnAddEventClicked"/>
+    </AbsoluteLayout>
+</ContentPage>
