@@ -21,14 +21,14 @@ This repository contains the source code for a Calendar Management Application b
 ### Home Screen
 
 ![Home Screen]()
-<img src="[https://github.com/Frikh-Said/EnjoyChat/assets/123327203/dcdf8a23-d194-446d-a529-b3399782598c](https://github.com/Daaouan/.Net-MAUI-SQLite-Application-Calendar-Management-/assets/116027598/f62c06c0-61a6-4d46-8c6e-4bba9b2a160e)" alt="Screenshot 8" width="500" height="300" />
+<img src="https://github.com/Daaouan/.Net-MAUI-SQLite-Application-Calendar-Management-/assets/123327203/8ed8a1a6-d097-4ad8-8b02-9b0353e773bd" alt="Screenshot 8" width="500" height="300" />
 
 The home screen displays the calendar for the current month. Users can navigate between months and years using the navigation buttons on either side of the month and year indicators. Each day of the month is represented, with events for the selected day highlighted.
 
 ### Adding a New Event
 
 ![Add Event]()
-<img src="[https://github.com/Frikh-Said/EnjoyChat/assets/123327203/dcdf8a23-d194-446d-a529-b3399782598c](https://github.com/Daaouan/.Net-MAUI-SQLite-Application-Calendar-Management-/assets/116027598/5f9fcb7e-dc96-4736-9a85-3001486dc56d)" alt="Screenshot 8" width="500" height="300" />
+<img src="https://github.com/Daaouan/.Net-MAUI-SQLite-Application-Calendar-Management-/assets/123327203/bd54f845-a546-465e-b1ae-01d5e14eb9a7)" alt="Screenshot 8" width="500" height="300" />
 
 
 When the user clicks the "+" button at the bottom right of the home screen, a form appears allowing the addition of a new event. This form includes fields for the event title, description, and date. Users can save the event by clicking the "Save" button.
@@ -36,7 +36,7 @@ When the user clicks the "+" button at the bottom right of the home screen, a fo
 ### Viewing Event Details
 
 ![View Event]()
-<img src="[https://github.com/Frikh-Said/EnjoyChat/assets/123327203/dcdf8a23-d194-446d-a529-b3399782598c](https://github.com/Daaouan/.Net-MAUI-SQLite-Application-Calendar-Management-/assets/116027598/b5d0576b-0cdf-4271-9684-1c1644b4046e)" alt="Screenshot 8" width="500" height="300" />
+<img src="https://github.com/Daaouan/.Net-MAUI-SQLite-Application-Calendar-Management-/assets/123327203/2142bcde-a0df-4695-b182-eca2025a76b2" alt="Screenshot 8" width="500" height="300" />
 
 
 When a day with events is selected, the details of the events for that day are displayed below the calendar. Each event is listed with its title and description, providing a clear and organized view of the user's engagements for the day.
