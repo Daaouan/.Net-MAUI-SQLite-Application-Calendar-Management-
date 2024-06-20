@@ -20,22 +20,21 @@ This repository contains the source code for a Calendar Management Application b
 
 ### Home Screen
 
-<img src="https://github.com/Daaouan/.Net-MAUI-SQLite-Application-Calendar-Management-/assets/123327203/8ed8a1a6-d097-4ad8-8b02-9b0353e773bd" alt="Screenshot 8" width="150" height="300" />
+![Home Screen](https://github.com/Frikh-Said/.Net-MAUI-SQLite-Application-Calendar-Management-/assets/123327203/9a6811b0-8837-47c4-8a9f-feefb07e9dc7)
 
 The home screen displays the calendar for the current month. Users can navigate between months and years using the navigation buttons on either side of the month and year indicators. Each day of the month is represented, with events for the selected day highlighted.
 
 ### Adding a New Event
 
 
-<img src="https://github.com/Daaouan/.Net-MAUI-SQLite-Application-Calendar-Management-/assets/123327203/bd54f845-a546-465e-b1ae-01d5e14eb9a7)" alt="Screenshot 8" width="150" height="300" />
+![add event](https://github.com/Frikh-Said/.Net-MAUI-SQLite-Application-Calendar-Management-/assets/123327203/d3b404c9-1c64-4f69-bffe-50aae9b4e530)
 
 
 When the user clicks the "+" button at the bottom right of the home screen, a form appears allowing the addition of a new event. This form includes fields for the event title, description, and date. Users can save the event by clicking the "Save" button.
 
 ### Viewing Event Details
 
-
-<img src="https://github.com/Daaouan/.Net-MAUI-SQLite-Application-Calendar-Management-/assets/123327203/2142bcde-a0df-4695-b182-eca2025a76b2" alt="Screenshot 8" width="150" height="300" />
+![view event](https://github.com/Frikh-Said/.Net-MAUI-SQLite-Application-Calendar-Management-/assets/123327203/6e78eb34-be4b-45e5-a645-57e929a067c6)
 
 
 When a day with events is selected, the details of the events for that day are displayed below the calendar. Each event is listed with its title and description, providing a clear and organized view of the user's engagements for the day.
